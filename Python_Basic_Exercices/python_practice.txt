@@ -1,0 +1,71 @@
+1. Variables & Data Types
+Store your name, age, and city in variables and print a sentence.
+Calculate the area and perimeter of a rectangle.
+Convert a temperature from Celsius to Fahrenheit.
+Check if a number is positive or negative using a boolean variable.
+Take two numbers and swap their values without using a third variable.
+Create a variable that stores a list of three favorite foods and print them.
+Concatenate two strings into one full sentence.
+Calculate the average of three numbers stored in variables.
+Print the data type of variables: string, integer, float, boolean.
+Round a floating number to 2 decimal places.
+
+2. Conditions (if/else)
+Check if a number is even or odd.
+Ask for the user’s age and check if they are allowed to vote (>=18).
+Compare two numbers and print the larger one.
+Take three numbers and print the maximum.
+Check if a number is divisible by both 3 and 5.
+Ask for a grade (1–10) and print Pass/Fail.
+Check if a string contains the word “Python”.
+Ask for a password and print “Access granted” if it matches.
+Classify a number as negative, zero, or positive.
+Check if a year is a leap year.
+
+3. Loops (for/while)
+Print numbers from 1 to 20.
+Print even numbers from 2 to 50.
+Calculate the sum of numbers from 1 to 100.
+Print the multiplication table of a given number.
+Ask the user for numbers until they type “stop” → print the sum.
+Print each character of a string on a new line.
+Count how many vowels are in a word.
+Print the factorial of a number.
+Reverse a string using a loop.
+Guess-the-number game: loop until the user guesses the secret number.
+
+4. Lists & Dictionaries
+Create a list of 5 cities and print the third city.
+Add a new city to the list and sort it alphabetically.
+Find the maximum value in a list of numbers.
+Sum all elements in a list of numbers.
+Replace the second element in a list with a new value.
+Create a dictionary with keys: name, age, city → print all values.
+Add a new key country to the dictionary.
+Count how many times each character appears in a string (dictionary).
+Merge two dictionaries into one.
+Create a nested dictionary of 3 students with their grades.
+
+5. Functions
+Write a function that returns the square of a number.
+Write a function that returns the sum of two numbers.
+Write a function that reverses a string.
+Write a function that calculates the average of a list of numbers.
+Write a function that checks if a word is a palindrome.
+Write a function that counts vowels in a string.
+Write a function that converts kilometers to miles.
+Write a function that finds the maximum number in a list.
+Write a function that returns the factorial of a number.
+Write a function that checks if a number is prime.
+
+6. Mini Projects (integration of all)
+Simple Calculator (add, subtract, multiply, divide).
+To-do list app (add, remove, show tasks).
+Number guessing game (1–100).
+Email validator (check for “@” and “.”).
+Temperature converter (Celsius ↔ Fahrenheit).
+Word frequency counter (count words in a sentence).
+Stopwatch simulation using time library.
+Rock-Paper-Scissors game against the computer.
+Convert seconds to format hh:mm:ss.
+Contact book app (store names + phone numbers in a dictionary).
